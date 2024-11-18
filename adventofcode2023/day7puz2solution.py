@@ -56,7 +56,7 @@ def determine_hand(hand_arr) -> HandRank:
         return HandRank.HIGH_CARD
 
 if __name__ == "__main__":
-    file_name = '2023/day7puz1input.txt'
+    file_name = 'adventofcode2023/day7puz1input.txt'
 
     hand_list = [];
 

@@ -11,7 +11,7 @@ def calc_possible_distances( total_time ):
     return total_distances
 
 if __name__ == "__main__":
-    file_name = '2023/day6puz1input.txt'
+    file_name = 'adventofcode2023/day6puz1input.txt'
 
     ways_to_win = [1]
 

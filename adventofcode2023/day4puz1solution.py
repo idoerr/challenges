@@ -1,7 +1,7 @@
 
 
 if __name__ == "__main__":
-    file_name = '2023/day4puz1input.txt'
+    file_name = 'adventofcode2023/day4puz1input.txt'
 
     card_scores = []
 

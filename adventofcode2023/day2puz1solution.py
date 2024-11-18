@@ -2,7 +2,7 @@
 import re
 
 if __name__ == "__main__":
-    file_name = '2023/day2puz1input.txt'
+    file_name = 'adventofcode2023/day2puz1input.txt'
 
     max_values = {'green': 13, 'red':12, 'blue': 13}
 

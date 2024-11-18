@@ -1,7 +1,7 @@
 
 
 if __name__ == "__main__":
-    file_name = '2023/day4puz2input.txt'
+    file_name = 'adventofcode2023/day4puz2input.txt'
 
     card_matches = []
 

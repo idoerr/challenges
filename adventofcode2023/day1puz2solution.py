@@ -1,6 +1,6 @@
 
 if __name__ == "__main__":
-    file_name = '2023/day1puz2input.txt'
+    file_name = 'adventofcode2023/day1puz2input.txt'
 
     row_values = [];
 

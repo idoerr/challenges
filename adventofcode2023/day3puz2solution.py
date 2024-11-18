@@ -2,7 +2,7 @@ from collections import defaultdict
 import re
 
 if __name__ == "__main__":
-    file_name = '2023/day3puz2input.txt'
+    file_name = 'adventofcode2023/day3puz2input.txt'
 
     symbol_list = { '*', '+', '=', '-', '%', '$', '@', '#', '/', '=' }
     data_matrix = []
