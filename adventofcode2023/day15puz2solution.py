@@ -6,8 +6,6 @@ def hash_str(to_hash):
         cur_hash = ((cur_hash + ord(x)) * 17) % 256
     return cur_hash
 
-
-
 def find_in_box(box, search_str):
     for i, x in enumerate(box):
         key_str, focal_val = x
