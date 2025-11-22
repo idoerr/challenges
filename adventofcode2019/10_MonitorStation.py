@@ -78,7 +78,6 @@ def gcd(a, b):
     
     return gcd(b, a % b)
 
-
 input_file = 'adventofcode2019/10_MonitorStation.txt'
 
 if __name__ == "__main__":
